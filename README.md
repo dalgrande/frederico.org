@@ -2,7 +2,7 @@ Este é um exemplo de Single Page Application (SPA), utilizando uma abordagem si
 
 Utilizei o boilerplate padrão do [ReactJs](https://reactjs.org), com [Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html), [create-react-app](https://pt-br.reactjs.org/docs/create-a-new-react-app.html), [Axios](https://github.com/axios/axios), componentes do [Material-UI](https://material-ui.com/pt/) e API https://jsonplaceholder.typicode.com
 
-Este exemplo não é responsivo, propositalmente. Para tal pode-se usar Props dos componente do Material UI.
+Este exemplo não é responsivo.
 
 Fique a vontade para clonar, ou fazer um fork!
 
